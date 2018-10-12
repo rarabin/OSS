@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-	// 구구단 : 1단부터 8단까지
+	// 구구단 : 1단부터 9단까지
 
-	for (int i = 0; i < 8; i++)
+	for (int i = 0; i < 9; i++)
 	{
 		for (int j = 0; j < 9; j++)
 		{
